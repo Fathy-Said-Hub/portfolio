@@ -177,11 +177,11 @@ display: none;
 @media screen and (max-width:720px){
 .projects{
     display: grid;
-    grid-template-columns: repeat(1, 200px);
+    grid-template-columns: repeat(1, 100px);
     gap: 20px;
 }
 .projects img{
-    width: 200px;
+    width: 100px;
 }
 .sec{
     min-height: 400vh;
