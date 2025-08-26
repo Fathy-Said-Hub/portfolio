@@ -141,6 +141,9 @@ h1{
     color: #fff;
     font-size: 3.5rem;
     margin: 50px 0;
+    background-image: url("../img/forst.jpg");
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .pos{
     text-align: center;
