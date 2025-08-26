@@ -143,6 +143,9 @@ display: none;
     color: #fff;
     text-align: center;
     font-size: 3.5rem;
+    background-image: url("../img/forst.jpg");
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 #me{
     width: 300px;
