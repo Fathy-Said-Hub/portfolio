@@ -182,9 +182,10 @@ display: none;
 }
 .projects img{
     width: 100px;
+    height: 80px;
 }
 .sec{
-    min-height: 400vh;
+    min-height: 250vh;
 }
 
 }
