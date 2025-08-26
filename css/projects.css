@@ -124,13 +124,12 @@ display: none;
 
 #nav:checked~.container{
     height: 30rem;
-    direction: rtl;
-    width: 30%;
+    width: 100%;
     background-color: rgba(0,0,0,1);
     border-radius: 20px;
 }
 
-                        /*main content*/
+                                                    /*main content*/
 .sec{
     min-height: 170vh;
     display: flex;
@@ -178,7 +177,7 @@ display: none;
 @media screen and (max-width:720px){
 .projects{
     display: grid;
-    grid-template-columns: repeat(1, 500px);
+    grid-template-columns: repeat(1, 400px);
     gap: 20px;
 }
 .sec{
@@ -203,7 +202,7 @@ display: none;
 margin-left: 0.5rem;
 }
 }
-                /*Footer*/
+                                                    /*Footer*/
 footer{
 display: flex;
 justify-content: center;
