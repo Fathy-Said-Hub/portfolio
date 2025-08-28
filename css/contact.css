@@ -86,6 +86,7 @@ display: none;
 }
 .menu{
     display: block;
+    top: 0;
 }
 .menu #close-icon{
     display: none;
