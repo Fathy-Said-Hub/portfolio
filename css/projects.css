@@ -182,11 +182,11 @@ display: none;
 @media screen and (max-width:720px){
 .projects{
     display: grid;
-    grid-template-columns: repeat(1, 100px);
+    grid-template-columns: repeat(1, 200px);
     gap: 20px;
 }
 .projects img{
-    width: 100px;
+    width: 200px;
     height: 80px;
 }
 .sec{
